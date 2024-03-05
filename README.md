@@ -23,3 +23,9 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+## Example
+
+The home page shows a paginated list of products, where you can add whatever item you want and the price number in the header will increment. This price number will be saved between reloads since it's stored in local storage.
+
+![Home page](./assets/home.png)
