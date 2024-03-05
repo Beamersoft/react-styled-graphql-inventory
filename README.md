@@ -8,7 +8,7 @@ At its core, the project demonstrates the integration of Apollo Client within a 
 
 "react-styled-graphql-inventory" is designed as a practical example of how to structure a project for real-world applications, emphasizing code organization, testing with Jest, and advanced React patterns. Whether for an e-commerce site or a data-driven dashboard, this project serves as a template for developers looking to implement GraphQL in their React applications with an emphasis on clean design and maintainable code.
 
-This template uses the Vendure's API: - https://www.vendure.io/docs/graphql-api/shop/
+This template uses the Vendure's API: https://www.vendure.io/docs/graphql-api/shop/
 
 ## Scripts
 
